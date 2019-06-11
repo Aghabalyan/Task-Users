@@ -1,0 +1,22 @@
+.DS_Store
+HelloWorld
+CommandLine
+iOS-FastTrack-2014-2015
+*.xcuserstate
+*.xccheckout
+*.hmap
+*.ipa
+*.log
+build/
+*.pbxuser
+Pods
+Podfile.lock
+
+# IntelliJ/Appcode files
+.idea
+
+# Xcode user data
+xcuserdata
+
+# Config file
+xcshareddata/Task-Users.xcscmblueprint
